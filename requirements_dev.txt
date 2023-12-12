@@ -16,7 +16,7 @@ types-pyYAML
 scipy
 mlflow==1.26.1
 
--e .
+# -e .
 
 #unit testing :- test single component
 #intgreation testing:- multiple component test
