@@ -4,7 +4,7 @@
 
 
 from CNNClassifier.components.stage_01_data_ingestion import DataIngestion
-from CNNClassifier.config import ConfigurationManager
+from CNNClassifier.config.configuration import ConfigurationManager
 from CNNClassifier import logger
 logger.info(f"data ingestion stage started")
 
